@@ -1,5 +1,8 @@
 # UniversalUtils
 
+![Logo](https://github.com/chihung93/UniversalUtils/blob/master/UniversalUtils.png)
+
+
 This Library collects commonly helper method from resources on github, stackoverflow .I hope it useful to you.
 
 # How to install
@@ -57,7 +60,11 @@ https://github.com/madhanhere/android-utils : [madhankumar](https://github.com/m
 
 # Thanks to the people who created them and publish it.
 
-
+# Features 
+- Unit Test 
+- Validation 
+- Time Ago 
+- Intent ( open Browsers, Mail , etc ..)
 
 # Project Maintained By
 [Chi Hung](https://github.com/chihung93)
